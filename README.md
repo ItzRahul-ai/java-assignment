@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-> _Screenshots can be added here if needed._
+> ./readme.png
 
 ## How to Run
 

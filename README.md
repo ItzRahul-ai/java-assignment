@@ -10,9 +10,13 @@
 - 📂 **Show All**: Load tasks from a file (`tasks.txt`).
 - 💾 **Save Tasks**: Save the current list of tasks to the file.
 
-## Screenshots
+# ToDoTaskGUI - Java Swing Task Manager
 
-> ./readme.png
+**ToDoTaskGUI** is a simple desktop application built with Java Swing that allows users to manage their tasks through a graphical user interface.
+
+## 📸 Screenshot
+
+![ToDoTaskGUI Screenshot](readme.png)
 
 ## How to Run
 
